@@ -1,0 +1,24 @@
+# NOTICE
+
+## 皮肤代码与工程结构
+
+本皮肤基于 [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)（作者 Small-tailqwq）的
+`maid-atelier` 皮肤工程改造。原工程代码与结构遵循 **CC BY-NC-SA 4.0**（署名-非商业性使用-相同方式共享），
+本仓库同样以 CC BY-NC-SA 4.0 发布，**禁止任何商业性使用**。
+
+皮肤工程脚手架（目录模板、tsdown 构建预设）来自
+[dsh-external/dsh-web-ui](https://github.com/dsh-external/dsh-web-ui)。
+
+## 美术素材
+
+本皮肤的全部美术素材（背景、角色立绘、装饰元素等）为 AI 生成的蜡笔小新主题二次创作，由本仓库作者
+整理、去白、压缩并内嵌。
+
+**版权声明**：
+- 《蜡笔小新》角色与相关美术元素版权归 臼井仪人 / 双叶社 / 株式会社シンエイ動画 / 朝日电视台 等版权方所有
+- 本皮肤为粉丝二次创作，仅供学习与个人使用，**禁止商用、禁止用于任何商业场景**
+- 如涉及侵权，请联系仓库作者下架
+
+## 许可文本
+
+完整许可见 `LICENSE`（CC BY-NC-SA 4.0）。
