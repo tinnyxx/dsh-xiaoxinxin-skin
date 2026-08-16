@@ -1,0 +1,24 @@
+{
+  "id": "maid-atelier",
+  "name": "蜡笔小新主题",
+  "nameEn": "Xiaoxin Theme",
+  "author": "Small-tailqwq",
+  "tagline": "双小新背景、红金界面与 Q 版侧栏",
+  "description": "基于 DeepSeek Harness WebUI 的蜡笔小新主题皮肤：春日部场景背景（亮/暗可切换）、红金配色界面覆盖层、Q版小新/风间侧栏与四角装饰。",
+  "tags": [
+    "anime",
+    "xiaoxin",
+    "shin-chan",
+    "red",
+    "gold",
+    "cute"
+  ],
+  "accent": "#e60012",
+  "bodyAttr": "data-dsh-maid-atelier",
+  "package": "@dsh-external/dsh-client-ui-skin-maid-atelier",
+  "wiring": {
+    "id": "ui-skin-maid-atelier",
+    "bundleWired": false
+  },
+  "order": 5
+}
